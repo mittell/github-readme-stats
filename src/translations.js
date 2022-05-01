@@ -286,7 +286,7 @@ const wakatimeCardLocales = {
     "zh-tw": "Wakatime 周統計",
     cs: "Statistiky Wakatime",
     de: "Wakatime Status",
-    en: "Wakatime Stats",
+    en: "WakaTime Stats",
     bn: "Wakatime স্ট্যাটাস",
     es: "Estadísticas de Wakatime",
     fr: "Statistiques de Wakatime",
